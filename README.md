@@ -1,6 +1,7 @@
 # Bitbucket Auth plugin
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-bitbucket_auth)
+[![Build Status](https://travis-ci.org/rlester/fastlane-plugin-bitbucket_auth.svg?branch=master)](https://travis-ci.org/rlester/fastlane-plugin-bitbucket_auth)
 
 ## Getting Started
 
