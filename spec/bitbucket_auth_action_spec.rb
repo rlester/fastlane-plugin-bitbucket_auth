@@ -57,7 +57,7 @@ describe Fastlane::Actions::BitbucketAuthAction do
         expect(!ENV["BITBUCKET_ACCESS_TOKEN"].nil?)
       end
     end
-    
+
     it "supports all platforms" do
       expect(Fastlane::Actions::BitbucketAuthAction.is_supported?(:ios)).to be(true)
       expect(Fastlane::Actions::BitbucketAuthAction.is_supported?(:android)).to be(true)

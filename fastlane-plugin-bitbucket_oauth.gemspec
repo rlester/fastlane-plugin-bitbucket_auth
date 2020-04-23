@@ -7,7 +7,7 @@ require 'fastlane/plugin/bitbucket_auth/version'
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-bitbucket_auth'
   spec.version       =  Fastlane::BitbucketAuth::VERSION
-  spec.author        = 'rlestesr'
+  spec.author        = 'rlester'
   spec.email         = 'rlester@users.noreply.github.com'
 
   spec.summary       = 'Generate a OAuth Token for Bitbucket API Access.'
